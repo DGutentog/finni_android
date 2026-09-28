@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s3_ok.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s3_ok.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s1_ok.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s1_ok.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_lamp.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_lamp.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s2_ok.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s2_ok.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s1_sleep.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s1_sleep.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_room_day.jpg.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/room_day.jpg"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_ic_wash.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/ic_wash.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s3_sleep.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s3_sleep.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s3_happy.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s3_happy.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_ic_feed.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/ic_feed.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_ic_vita.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/ic_vita.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s2_sad.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s2_sad.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s1_sad.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s1_sad.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_ic_play.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/ic_play.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s1_happy.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s1_happy.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_ic_treat.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/ic_treat.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s2_happy.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s2_happy.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_ic_save.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/ic_save.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_room_night.jpg.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/room_night.jpg"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s2_sleep.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s2_sleep.png"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/font_nunito.ttf.flat",
+        "source": "ru.finny.app-main-44:/font/nunito.ttf"
+    },
+    {
+        "merged": "ru.finny.app-debug-42:/drawable-nodpi_finny_s3_sad.png.flat",
+        "source": "ru.finny.app-main-44:/drawable-nodpi/finny_s3_sad.png"
+    }
+]

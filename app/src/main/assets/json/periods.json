@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "app": "Питомец Финни",
+    "module": "Игровые периоды демо-режима",
+    "author": "Участник 2 (Экономика)",
+    "version": 1,
+    "note": "mandatory — id товаров из products.json, которые обязаны быть куплены в периоде. Период завершается кнопкой, без привязки к реальному времени."
+  },
+  "periods": [
+    { "index": 1, "income": 50, "mandatory": ["p_food", "p_hygiene"], "event": "" },
+    { "index": 2, "income": 50, "mandatory": ["p_food", "p_vitamins"], "event": "Финни много спорил на спортивной площадке — нужны витамины" },
+    { "index": 3, "income": 60, "mandatory": ["p_food", "p_hygiene", "p_bed"], "event": "Кроватка порвалась! Срочно нужен ремонт" },
+    { "index": 4, "income": 45, "mandatory": ["p_food", "p_hygiene"], "event": "В этом периоде карманные деньги чуть меньше обычного" },
+    { "index": 5, "income": 55, "mandatory": ["p_food", "p_vitamins", "p_bed"], "event": "После переезда в новый уголок кроватку снова надо чинить" },
+    { "index": 6, "income": 60, "mandatory": ["p_food", "p_hygiene", "p_vitamins"], "event": "Плановый осмотр у доктора Заботкина" }
+  ]
+}

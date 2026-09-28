@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose-приложению не нужен ActionBar: берём каркасную тему без него -->
+    <style name="Theme.Finni" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#4740C0</item>
+        <item name="android:windowBackground">#F6F4FC</item>
+    </style>
+</resources>

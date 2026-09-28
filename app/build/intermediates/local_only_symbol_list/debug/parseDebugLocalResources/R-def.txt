@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+drawable finny_lamp
+drawable finny_s1_happy
+drawable finny_s1_ok
+drawable finny_s1_sad
+drawable finny_s1_sleep
+drawable finny_s2_happy
+drawable finny_s2_ok
+drawable finny_s2_sad
+drawable finny_s2_sleep
+drawable finny_s3_happy
+drawable finny_s3_ok
+drawable finny_s3_sad
+drawable finny_s3_sleep
+drawable ic_feed
+drawable ic_play
+drawable ic_save
+drawable ic_treat
+drawable ic_vita
+drawable ic_wash
+drawable room_day
+drawable room_night
+font nunito
+string app_name
+style Theme.Finni
